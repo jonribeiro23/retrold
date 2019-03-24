@@ -1,0 +1,13 @@
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
+#playlist{
+  height: 450px;
+  overflow-y: scroll;
+  position: sticky;
+  top: 30%;
+}
